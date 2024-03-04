@@ -3,7 +3,10 @@
 ### Hi there 👋, My name is Ummer Saleem
 #### I am a Business development manager and SEO analyst
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Business development manager and SEO analyst with 2 years of experience who has a track record of fostering creativity and providing meaningful solutions in fast-paced work settings. I am an innovative thinker with strong analytical skills, and I work best where company strategy, technology, and user experience come together.
+
+Throughout my professional life, I have taken advantage of data-driven methods to find chances for revenue growth, risk reduction, and process optimization. I'm dedicated to creating an environment that values innovation and ongoing development, from organizing stakeholder meetings to carrying out in-depth market research.
+
 
 Skills: Digital Marketing, Search engine optimization, Market Analysis, Business analysis and planning, Google Analytics
 
