@@ -8,7 +8,12 @@ Business development manager and SEO analyst with 2 years of experience who has 
 Throughout my professional life, I have taken advantage of data-driven methods to find chances for revenue growth, risk reduction, and process optimization. I'm dedicated to creating an environment that values innovation and ongoing development, from organizing stakeholder meetings to carrying out in-depth market research.
 
 ## Skills and Experience
-Digital Marketing, Search engine optimization, Market Analysis, Business analysis and planning, Google Analytics
+• Digital Marketing
+• Search Engine Optimization
+• Market Analysis and Strategy
+• Business analysis and planning
+• Google Analytics
+• Content Marketing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ummersaleem )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ummer-saleem/)  
