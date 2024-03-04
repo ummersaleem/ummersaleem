@@ -14,7 +14,7 @@ Throughout my professional life, I have taken advantage of data-driven methods t
 
 • Market Analysis and Strategy
 
-• Business analysis and planning
+• Business development and planning
 
 • Google Analytics
 
