@@ -9,10 +9,15 @@ Throughout my professional life, I have taken advantage of data-driven methods t
 
 ## Skills and Experience
 • Digital Marketing
+
 • Search Engine Optimization
+
 • Market Analysis and Strategy
+
 • Business analysis and planning
+
 • Google Analytics
+
 • Content Marketing
 
 
